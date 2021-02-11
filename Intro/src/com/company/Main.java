@@ -88,5 +88,15 @@ public class Main {
 
         //Char and Boolean primitive types
         char myChar = 'D';
+        char myUnicodeChar = '\u0044';
+        System.out.println(myChar);
+        System.out.println(myUnicodeChar);
+        char myCopyright = '\u00A9';
+        System.out.println(myCopyright);
+
+        boolean myTrueBooleanValue = true;
+        boolean myFalseBooleanValue = false;
+
+        boolean isCustomerOverTwentyOne = true;
     }
 }
