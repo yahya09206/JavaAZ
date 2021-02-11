@@ -9,10 +9,12 @@ public class Main {
         //Declare a Variable
         int myFirstNumnber = (10 + 5) + (2 * 10);
         int mySecondNumber = 40;
-        int myThirdNumber = 3000;
-        int myTotal = myFirstNumnber + mySecondNumber + mySecondNumber;
+        int myThirdNumber = myFirstNumnber * 2;
+        int myTotal = myFirstNumnber + mySecondNumber + myThirdNumber;
+        int myLastOne = myTotal - 1000;
         //Print out value of myFirstNumber®
         System.out.println(myTotal);
+        System.out.println(myLastOne);
 
     }
 }
