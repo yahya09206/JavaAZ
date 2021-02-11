@@ -6,5 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("Hello Yahya");
 
+        //Declare a Variable
+        int myFirstNumnber = 5;
+
     }
 }
