@@ -114,5 +114,8 @@ public class Main {
         double doubleNumber = 120.47d;
         lastString = lastString + doubleNumber;
         System.out.println("LastString is equal to " + lastString);
+
+        //Operators
+        int result = 1 + 2;
     }
 }
