@@ -7,14 +7,14 @@ public class Main {
         System.out.println("Hello Yahya");
 
         //Declare a Variable
-        int myFirstNumber = (10 + 5) + (2 * 10);
-        int mySecondNumber = 40;
-        int myThirdNumber = myFirstNumber * 2;
-        int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
-        int myLastOne = 1000 - myTotal;
+//        int myFirstNumber = (10 + 5) + (2 * 10);
+//        int mySecondNumber = 40;
+//        int myThirdNumber = myFirstNumber * 2;
+//        int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
+//        int myLastOne = 1000 - myTotal;
         //Print out value of myFirstNumber®
-        System.out.println(myTotal);
-        System.out.println(myLastOne);
+//        System.out.println(myTotal);
+//        System.out.println(myLastOne);
 
         //Int Byte Short
         int myValue = 10000;
@@ -46,6 +46,9 @@ public class Main {
         System.out.println("Long Maximum Value = " + myMaxLongValue);
         long bigLongLiteralValue = 2_147_483_647;
         System.out.println(bigLongLiteralValue);
+
+        int myTotal = (myMinIntValue / 2);
+        byte myNewByteValue = (myMinByteValue / 2);
 
     }
 }
