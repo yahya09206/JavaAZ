@@ -26,5 +26,17 @@ public class Main {
         System.out.println("Busted MAX value = " + (myMaxIntValue + 1));
         System.out.println("Busted Min value = " + (myMinIntValue - 1));
 
+        //Byte
+        byte myMinByteValue = Byte.MIN_VALUE;
+        byte myMaxByteValue = Byte.MAX_VALUE;
+        System.out.println("Byte Minimum Value = " + myMinByteValue);
+        System.out.println("Byte Maximum Value = " + myMaxByteValue);
+
+        //Short
+        short myMinShortValue = Short.MIN_VALUE;
+        short myMaxShortValue = Short.MAX_VALUE;
+        System.out.println("Short Minimum Value = " + myMinShortValue);
+        System.out.println("Short Maximum Value = " + myMaxShortValue);
+
     }
 }
