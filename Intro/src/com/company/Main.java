@@ -82,5 +82,11 @@ public class Main {
         double pounds = 120;
         double conversion = pounds * 0.45359237;
         System.out.println(conversion);
+
+        double pi = 3.1415927d;
+        System.out.println(pi);
+
+        //Char and Boolean primitive types
+        char myChar = 'D';
     }
 }
