@@ -59,5 +59,7 @@ public class Main {
         long newLong = 50000 + (10 * newSum);
         System.out.println(newLong);
 
+        //Floating point numbers
+
     }
 }
