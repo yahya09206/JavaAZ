@@ -132,5 +132,14 @@ public class Main {
         result = result % 3;
         System.out.println("4 % 3 = " + result);
 
+        //Abbreviating operators
+        result++; //increment by 1
+        result--; //decrement by 1
+        result+= 2; //increment by 2
+        result *= 10; //multiply by 10
+        result /= 10; //divide by 10
+        System.out.println(result);
+
+
     }
 }
