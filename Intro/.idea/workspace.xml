@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="13" selection-start-line="35" selection-start-column="8" selection-end-line="38" selection-end-column="71" />
+            <state relative-caret-position="510">
+              <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -31,10 +31,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>byte</find>
+      <find>Byte</find>
     </findStrings>
     <replaceStrings>
       <replace>Short</replace>
       <replace>short</replace>
+      <replace>long</replace>
+      <replace>Long</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -143,8 +146,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="13" selection-start-line="35" selection-start-column="8" selection-end-line="38" selection-end-column="71" />
+        <state relative-caret-position="510">
+          <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
         </state>
       </provider>
     </entry>
